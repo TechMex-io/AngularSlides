@@ -19,7 +19,7 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.css"
+        "slides.mins.css", "styles.css"
       ],
       "scripts": ["slides.min.js"],
       "environmentSource": "environments/environment.ts",
